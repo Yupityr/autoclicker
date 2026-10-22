@@ -1,0 +1,5 @@
+<resources>
+    <color name="accent">#FF4081</color>
+    <color name="panel_bg">#DD1E1E2E</color>
+    <color name="target_color">#AAFF4081</color>
+</resources>

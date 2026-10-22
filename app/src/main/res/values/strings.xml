@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoClicker</string>
+    <string name="accessibility_service_description">Allows AutoClicker to perform automated taps at a position you choose. No data is read or collected.</string>
+</resources>
